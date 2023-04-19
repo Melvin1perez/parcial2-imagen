@@ -1,0 +1,15 @@
+C:\Users\jacin\source\repos\seman12\parci2\parci2\bin\Debug\net6.0\parci2.exe
+C:\Users\jacin\source\repos\seman12\parci2\parci2\bin\Debug\net6.0\parci2.deps.json
+C:\Users\jacin\source\repos\seman12\parci2\parci2\bin\Debug\net6.0\parci2.runtimeconfig.json
+C:\Users\jacin\source\repos\seman12\parci2\parci2\bin\Debug\net6.0\parci2.dll
+C:\Users\jacin\source\repos\seman12\parci2\parci2\bin\Debug\net6.0\parci2.pdb
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.csproj.AssemblyReference.cache
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.AssemblyInfoInputs.cache
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.AssemblyInfo.cs
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.csproj.CoreCompileInputs.cache
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.dll
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\refint\parci2.dll
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.pdb
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\parci2.genruntimeconfig.cache
+C:\Users\jacin\source\repos\seman12\parci2\parci2\obj\Debug\net6.0\ref\parci2.dll
